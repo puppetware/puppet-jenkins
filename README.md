@@ -6,6 +6,8 @@ Puppet module to install Jenkins CI.
 Supported Platforms:
 
 - Darwin
+- Debian
+- RedHat
 
 Usage
 -----
